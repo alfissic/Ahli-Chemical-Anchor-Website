@@ -1,41 +1,41 @@
 window.ACA_PORTFOLIO_PHOTOS = [
-  { img:'Images/Portfolio/bekasi_1.jpg'},
+  { img:'images/portfolio/bekasi_1.jpg'},
 
-  { img:'Images/Portfolio/pasuruan_1.jpg'},
+  { img:'images/portfolio/pasuruan_1.jpg'},
 
-  { img:'Images/Portfolio/portfolio_9.jpeg'},
+  { img:'images/portfolio/portfolio_9.jpeg'},
 
-  { img:'Images/Portfolio/trenggalek_1.jpg'},
+  { img:'images/portfolio/trenggalek_1.jpg'},
 
-  { img:'Images/Portfolio/trenggalek_2.png'},
+  { img:'images/portfolio/trenggalek_2.png'},
 
-  { img:'Images/Portfolio/pasuruan_vidthumbnail.jpg'},
+  { img:'images/portfolio/pasuruan_vidthumbnail.jpg'},
 
-  { img:'Images/Portfolio/trenggalek_thumbnail.png'},
+  { img:'images/portfolio/trenggalek_thumbnail.png'},
 
-  { img:'Images/Portfolio/portfolio_1.jpeg'},
+  { img:'images/portfolio/portfolio_1.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_10.jpeg'},
+  { img:'images/portfolio/portfolio_10.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_3.jpeg'},
+  { img:'images/portfolio/portfolio_3.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_4.jpeg'},
+  { img:'images/portfolio/portfolio_4.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_5.jpeg'},
+  { img:'images/portfolio/portfolio_5.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_6.jpeg'},
+  { img:'images/portfolio/portfolio_6.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_7.jpeg'},
+  { img:'images/portfolio/portfolio_7.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_8.jpeg'},
+  { img:'images/portfolio/portfolio_8.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_11.jpeg'},
+  { img:'images/portfolio/portfolio_11.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_12.jpeg'},
+  { img:'images/portfolio/portfolio_12.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_13.jpeg'},
+  { img:'images/portfolio/portfolio_13.jpeg'},
 
-  { img:'Images/Portfolio/portfolio_14.jpeg'},
+  { img:'images/portfolio/portfolio_14.jpeg'},
 ];
 
 window.ACA_PORTFOLIO = [
